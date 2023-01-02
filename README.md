@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doug-araujo)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dougs.araujo/)
 
-![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dougsss&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dougsss&layout=compact)
 
 ## Technologies I use in my day! 🖥️
